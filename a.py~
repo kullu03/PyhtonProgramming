@@ -1,0 +1,11 @@
+
+def sayhello():
+	print "Hello ,python !"
+	saybye()
+def saybye():
+	print "bye python"
+def main():
+	sayhello()
+if __name__=="__main__":
+	main()
+

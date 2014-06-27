@@ -1,0 +1,4 @@
+:q
+
+import a
+sayhello()
